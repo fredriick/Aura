@@ -1,5 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Aura
 
+Aura is an innovative app that captures and visualizes a user's emotional and mental state through real-time biofeedback and environmental data. Integrating Gemini AI, the app uses inputs from wearable devices, smartphone sensors, and user interactions to create dynamic, personalized visual and auditory representations of a user's aura. This immersive experience aims to enhance self-awareness, mindfulness, and emotional well-being.
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
