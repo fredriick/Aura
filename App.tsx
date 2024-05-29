@@ -5,6 +5,10 @@
  * @format
  */
 
+import { enableScreens } from 'react-native-screens';
+
+enableScreens();
+
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
