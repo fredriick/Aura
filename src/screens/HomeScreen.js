@@ -1,5 +1,3 @@
-// src/screens/HomeScreen.js
-
 import React from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 import BiofeedbackService from '../services/BiofeedbackService';
